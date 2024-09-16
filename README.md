@@ -9,7 +9,9 @@ Iterative Gabor averaging (IGA) algorithm for low photon budget quantitative pha
 - ./Data - directory from which the experimental data will be loaded (see Experimental data section) <br>
 
 # How does it work
-IGA algorithm combines (1) iterative Gerchberg-Saxton (GS) phase retrieval method from multiplexed data (input holograms collected with different defocus and/or wavelength) with (2) straightforward averaging of multiple hologram reconstructions (Gabor averaging - GA) to obtain accurate reconstructions for low signal-to-noise ratio data. See the below article for details
+IGA algorithm combines (1) iterative Gerchberg-Saxton (GS) phase retrieval method from multiplexed data (input holograms collected with different defocus and/or wavelength) with (2) straightforward averaging of multiple hologram reconstructions (Gabor averaging - GA) to obtain accurate reconstructions for low signal-to-noise ratio data. See the below article for details. <br> <br>
+![][(https://github.com/MRogalski96/IGA/blob/main/gifs/IGAdemo1.gif) <br> <br>
+
 
 # Experimental data
 Our experimental data may be found at: <br>
