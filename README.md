@@ -16,11 +16,8 @@ IGA algorithm combines (1) iterative Gerchberg-Saxton (GS) phase retrieval metho
 
 # Experimental data
 Our experimental data may be found at: <br>
-Rogalski, M., Arcab, P., Wdowiak, E., Picazo Bueno, J. A., Micó, V., Józwik, M., & Trusiak, M. (2024). Hybrid iterating-averaging low photon budget Gabor holographic microscopy - dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13771363
 
-M. Rogalski, P. Arcab, L. Stanaszek, V. Micó, C. Zuo, and M. Trusiak, “Physics-driven universal twin-image removal network for digital in-line holographic microscopy - dataset,” Jun. 2023, doi: 10.5281/ZENODO.8059636.
-
-M. Rogalski, „Hybrid iterating-averaging low photon budget Gabor holographic microscopy - dataset”. Zenodo, wrz. 17, 2024. doi: 10.5281/zenodo.13771363.. <br>
+M. Rogalski, P. Arcab, E. Wdowiak, J. Á. Picazo-Bueno, V. Micó, M. Józwik, and M. Trusiak, “Hybrid iterating-averaging low photon budget Gabor holographic microscopy - dataset.” Zenodo, 2024. doi: 10.5281/zenodo.13771363. <br>
 https://zenodo.org/doi/10.5281/zenodo.13771362
 
 # Cite as
