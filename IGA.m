@@ -74,9 +74,9 @@ elseif sigma == inf % GA method
     R = R_GA;
 else % IGA method
     % Combine GS and GA methods
-    A = abs(R_GS) + abs(R_GA) - imgaussfilt(abs(R_GA),sigma);
-    phi = angle(R_GS) + angle(R_GA) - imgaussfilt(angle(R_GA),sigma);
-    R = A.*exp(1i.*phi);
+    Rea = real(R_GS) + real(R_GA) - imgaussfilt(real(R_GA),sigma);
+    Ima = imag(R_GS) + imag(R_GA) - imgaussfilt(imag(R_GA),sigma);
+    R = Rea + 1i.*Ima;
 end
 end
 
